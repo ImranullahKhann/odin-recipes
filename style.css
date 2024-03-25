@@ -12,3 +12,8 @@ h1 {
 .links {
     background-color: #EA445A;
 }
+
+.cover {
+    display: block;
+    margin: 0 auto;
+}
